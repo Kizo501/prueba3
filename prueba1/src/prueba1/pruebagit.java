@@ -12,7 +12,7 @@ public class pruebagit {
 		
 		System.out.println("Introduce un numerooooo y se suma");
 		num = sc.nextInt();
-		System.out.println("Introduce el seguasdasdasdasdndoooooooo numero");
+		System.out.println("Introduce el seguasdasdasdasdndooooooasdasdaoo numero");
 		num2 = sc.nextInt();
 		
 		int resultado = num + num2;
